@@ -1,2 +1,1 @@
-stage에 올라가서 tracked되고 있지만 내용이 수정되었다.
 test.txt 내용 수정
